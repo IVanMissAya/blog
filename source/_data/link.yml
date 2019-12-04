@@ -1,0 +1,8 @@
+class:
+  class_name: 友情鏈接
+  link_list:
+    1:
+      name: 小宾
+      link: http://www.famuzhe.cn/
+      avatar: http://www.famuzhe.cn/medias/avatar.jpg
+      descr: 要想成功，就要以恒心为良友，以经验为参谋，以谨慎为兄弟，以希望为哨兵。
