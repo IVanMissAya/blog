@@ -1,5 +1,7 @@
 ---
 title: 搭建 Node.js 环境
+author: IVAn
+cover: /images/post_5.jpg
 tags:
   - Node.js
   - Window 10

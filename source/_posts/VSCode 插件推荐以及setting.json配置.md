@@ -1,5 +1,7 @@
 ---
 title: VSCode 插件推荐以及setting.json配置
+author: IVAn
+cover: /images/post_2.jpg
 tags:
   - VSCode
 categories: 软件工具

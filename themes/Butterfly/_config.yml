@@ -54,7 +54,7 @@ copy:
 social:
   fa fa-github: https://github.com/IVanMissAya
   fa fa-envelope: mailto:ivanmissaya@gmail.com
-  fa fa-rss: /atom.xml
+  #fa fa-rss: /atom.xml
 
 ####    search    ####
 # Algolia search
@@ -83,7 +83,7 @@ local_search:
 # ---------------
 mathjax:
   enable: false
-
+ 
 # KaTeX
 # ---------------
 katex:
@@ -113,7 +113,7 @@ top_img: https://i.loli.net/2019/05/22/5ce53eb6dc82757840.jpg
 # if the banner of page not setting,it will show the top_img
 default_top_img: https://cdn.jsdelivr.net/gh/jerryc127/CDN/img/top_img_index.jpg
 
-# the default cover of the post
+# the default cover of the post	
 default_cover: https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/cover/default_bg.png
 
 # the banner image of archive page
@@ -193,7 +193,7 @@ disqus:
 # uid:
 
 gitalk:
-  enable: true
+  enable: false
   client_id: 619aff140c671d373c74
   client_secret: 72385b132cf920104c20c8ed30283e44b19dcb58
   repo: Blog_Comment
@@ -206,15 +206,15 @@ gitalk:
 
 # valine comment system. https://valine.js.org
 valine:
-  enable: false # if you want use valine,please set this value is true
-  appId: # leancloud application app id
-  appKey: # leancloud application app key
-  notify: false # valine mail notify (true/false) https://github.com/xCss/Valine/wiki
-  verify: false # valine verify code (true/false)
+  enable: true # if you want use valine,please set this value is true
+  appId: ANdwl13vK29C1EMBx69Anur7-gzGzoHsz # leancloud application app id
+  appKey: 0HHLGaNKJl9XNqnuoVxdCWQH # leancloud application app key
+  notify: true #  邮件提醒
+  verify: false # 评论时是否有验证码，需要在Leancloud 设置->安全中心 中打开
   pageSize: 10 # comment list page size
   avatar: monsterid # gravatar style https://valine.js.org/#/avatar
-  lang: en # i18n: zh-cn/en
-  placeholder: Please leave your footprints # valine comment input placeholder(like: Please leave your footprints )
+  lang: zh-cn # i18n: zh-cn/en
+  placeholder: 说点什麽吧... # valine comment input placeholder(like: Please leave your footprints )
   guest_info: nick,mail,link #valine comment header info
   bg: /img/comment_bg.png # valine background
 
@@ -345,7 +345,7 @@ canvas_nest:
 
 # 打字效果
 activate_power_mode:
-  enable: true
+  enable: false
 
 # 鼠標點擊效果
 # 避免卡頓，建議只開啓一個
@@ -355,7 +355,7 @@ fireworks:
 
 # 點擊出現愛心
 click_heart:
-  enable: false
+  enable: true
 
 # 點擊出現文字，文字可自行修改
 ClickShowText:
@@ -486,7 +486,7 @@ darkmode:
 # autoChangeMode: 1  跟隨系統而變化，不支持的瀏覽器/系統將按照時間晚上6點到早上6點之間切換為 dark mode
 # autoChangeMode: 2  只按照時間晚上6點到早上6點之間切換為 dark mode
 # autoChangeMode: false 取消自動切換
-autoChangeMode: false
+autoChangeMode: true
 
 ####    other     ####
 #------------------------------------------------

@@ -1,5 +1,7 @@
 ---
 title: 搭建 Nginx 环境
+author: IVAn
+cover: /images/post_4.gif
 tags:
   - Nginx
   - CentOS 7
