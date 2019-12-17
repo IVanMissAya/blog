@@ -11,10 +11,10 @@ abbrlink: 9332da2a
 Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。
 
 ## Node.js
-  安装[Node.js环境安装](http://www.famuzhe.cn/p/27ec92d2/ "Node.js环境安装")
+  安装[Node.js环境安装](https://www.ivan.fun/2019/12/04/%E6%90%AD%E5%BB%BANode.js%E7%8E%AF%E5%A2%83/ "Node.js环境安装")
 
 ## Git
-  安装[Git环境安装](https://www.jianshu.com/p/bebba0d8038e "Git环境安装")
+  安装[Git环境安装](https://www.ivan.fun/2019/12/04/%E6%90%AD%E5%BB%BAGit%E7%8E%AF%E5%A2%83/ "Git环境安装")
 ## Hexo
 
 ### 安装Hexo环境
