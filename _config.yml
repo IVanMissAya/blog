@@ -36,7 +36,7 @@ default_layout: post
 titlecase: false # Transform title into titlecase
 external_link:
   enable: true # Open external links in new tab
-  field: site # Apply to the whole site
+  field: post # Apply to the whole site
   exclude: ''
 filename_case: 0
 render_drafts: false
@@ -143,3 +143,9 @@ douban:
    title: '那些年,我看過的電影'
    quote: '那些年,我看過的電影'
   timeout: 10000 
+#aplayer 音乐播放
+aplayer:
+  script_dir: js                        # Public 目录下脚本目录路径，默认: 'assets/js'
+  style_dir: css                         # Public 目录下样式目录路径，默认: 'assets/css'
+  meting: true                                  # MetingJS 支持
+  asset_inject: true                            # 自动插入 Aplayer.js 与 Meting.js 资源脚本, 默认开启

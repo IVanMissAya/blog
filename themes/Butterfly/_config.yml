@@ -10,7 +10,6 @@ menu:
   標籤: /tags/ || fa fa-tags
   分類: /categories/ || fa fa-folder-open
   清單||fa fa-heartbeat:
-    - 音樂 || /music/ || fa fa-music
     - 電影 || /movies/ || fa fa-film
   友鏈: /link/ || fa fa-link
   關於: /about/ || fa fa-heart
@@ -227,9 +226,9 @@ footer_copyright:
   enable: true
 
 ICP:
-  enable: false
-  url:
-  text:
+  enable: true
+  url: http://gd.beian.miit.gov.cn/state/outPortal/loginPortal.action
+  text: 粤ICP备19001635号
   icon: /img/icp.png
 
 ####    站長驗證    ####
