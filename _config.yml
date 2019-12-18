@@ -135,3 +135,11 @@ feed:
   content_limit: 140
   content_limit_delim: ' '
   order_by: -date
+#豆瓣
+douban:
+  user: 151500870
+  builtin: true
+  movie:
+   title: '那些年,我看過的電影'
+   quote: '那些年,我看過的電影'
+  timeout: 10000 
