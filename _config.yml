@@ -145,7 +145,5 @@ douban:
   timeout: 10000 
 #aplayer 音乐播放
 aplayer:
-  script_dir: js                        # Public 目录下脚本目录路径，默认: 'assets/js'
-  style_dir: css                         # Public 目录下样式目录路径，默认: 'assets/css'
   meting: true                                  # MetingJS 支持
   asset_inject: true                            # 自动插入 Aplayer.js 与 Meting.js 资源脚本, 默认开启
