@@ -1,7 +1,7 @@
 ---
 title: Vue入门学习教程1-2
 author: IVAn
-cover: /images/vue.jpg
+cover: 'https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/vue.jpg'
 tags:
   - Vue
 categories: Vue

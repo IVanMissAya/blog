@@ -1,7 +1,7 @@
 ---
 title: 搭建 Hexo 环境
 author: IVAn
-cover: /images/post_6.jpg
+cover: https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/post_6.jpg
 tags:
   - Hexo
   - Window 10

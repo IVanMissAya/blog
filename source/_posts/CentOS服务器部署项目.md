@@ -1,7 +1,7 @@
 ---
 title: CentOS部署项目
 author: IVAn
-cover: /images/CentOS.jpg
+cover: https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/CentOS.jpg
 tags:
   - CentOS
 categories: CentOS

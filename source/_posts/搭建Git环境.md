@@ -1,7 +1,7 @@
 ---
 title: 搭建 Git 环境
 author: IVAn
-cover: /images/post_7.jpg
+cover: https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/post_7.jpg
 tags:
   - Git
   - CentOS 7
