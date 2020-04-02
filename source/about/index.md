@@ -1,6 +1,5 @@
 ---
-title: 關於
-date: 2019-11-18 15:20:13
+title: 关于
+date: 2020-04-02 17:12:41
 type: "about"
-layout: "about"
 ---
