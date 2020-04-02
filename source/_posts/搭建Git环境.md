@@ -4,7 +4,7 @@ author: IVAn
 cover: https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/post_7.jpg
 tags:
   - Git
-  - CentOS 7
+  - CentOS
 categories: 运维
 abbrlink: c8814d8f
 ---

@@ -4,7 +4,7 @@ author: IVAn
 cover: https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/post_4.gif
 tags:
   - Nginx
-  - CentOS 7
+  - CentOS
 categories: 运维
 abbrlink: 441d0300
 ---

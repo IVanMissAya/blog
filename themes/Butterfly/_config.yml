@@ -73,7 +73,7 @@ algolia_search:
 # Please see doc for more details: https://docs.jerryc.me/config.html#本地搜索
 # ---------------
 local_search:
-  enable: false
+  enable: true
   labels:
     input_placeholder: Search for Posts
     hits_empty: "We didn't find any results for the search: ${query}" # if there are no result
@@ -359,7 +359,7 @@ related_post:
 
 # figcaption
 # 圖片描述文字
-photofigcaption: true
+photofigcaption: false
 
 ####    美化/效果    ####
 #--------------------------------
