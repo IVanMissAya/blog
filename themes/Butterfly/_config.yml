@@ -39,7 +39,7 @@ highlight_copy: true #代碼複製按鈕
 highlight_lang: true #代碼語言顯示
 highlight_shrink: false # true 全部代碼框不展開，需點擊 '>' 打開 / false 代碼框展開，有'>'點擊按鈕 | none 代碼框展開，不顯示 '>' 按鈕
 
-code_word_wrap: false
+code_word_wrap: true
 
 # copy setting
 # 是否禁止複製（如果禁止，highlight_copy的功能將無效)
@@ -127,6 +127,8 @@ tag_img: https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/tags.jpg
 # the banner image of category page
 # category page, look like https://xxxxxxxxx.com/categories/butterfly
 category_img: https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/photo.jpg
+
+board_img: https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/about.jpg
 
 # 如果你有使用hexo-douban，可配置這個
 douban:

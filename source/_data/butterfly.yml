@@ -12,6 +12,7 @@ menu:
   娱乐||fa fa-list:
     - 音乐 || /music/ || fa fa-music
     - 电影 || /movies/ || fa fa-film
+  留言板: /board/ || fa fa-coffee
   友链: /link/ || fa fa-link
   关于: /about/ || fa fa-heart
   
@@ -36,9 +37,9 @@ favicon: /img/favicon.ico
 highlight_theme: light # default / darker / pale night / light / ocean
 highlight_copy: true #代碼複製按鈕
 highlight_lang: true #代碼語言顯示
-highlight_shrink: false # true 全部代碼框不展開，需點擊 '>' 打開 / false 代碼框展開，有'>'點擊按鈕 | none 代碼框展開，不顯示 '>' 按鈕
+highlight_shrink: true # true 全部代碼框不展開，需點擊 '>' 打開 / false 代碼框展開，有'>'點擊按鈕 | none 代碼框展開，不顯示 '>' 按鈕
 
-code_word_wrap: false
+code_word_wrap: true
 
 # copy setting
 # 是否禁止複製（如果禁止，highlight_copy的功能將無效)

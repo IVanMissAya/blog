@@ -112,7 +112,8 @@ douban:
    title: '那些年,我看過的電影'
    quote: '那些年,我看過的電影'
   timeout: 10000 
-#aplayer 音乐播放
+
+# aplayer 音乐播放
 aplayer:
   meting: true                                  # MetingJS 支持
   asset_inject: true                            # 自动插入 Aplayer.js 与 Meting.js 资源脚本, 默认开启
