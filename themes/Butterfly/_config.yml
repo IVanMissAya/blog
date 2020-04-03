@@ -12,6 +12,7 @@ menu:
   娱乐||fa fa-list:
     - 音乐 || /music/ || fa fa-music
     - 电影 || /movies/ || fa fa-film
+  留言板: /board/ || fa fa-coffee
   友链: /link/ || fa fa-link
   关于: /about/ || fa fa-heart
   
