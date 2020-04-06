@@ -1,12 +1,13 @@
 ---
 title: 搭建 Git 环境
 author: IVAn
-cover: https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/post_7.jpg
+cover: 'https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/post_7.jpg'
 tags:
   - Git
   - CentOS
 categories: 运维
 abbrlink: c8814d8f
+date: 2020-03-10 08:00:00
 ---
 GitHub就是一个免费托管开源代码的远程仓库。但是对于某些视源代码如生命的商业公司来说，既不想公开源代码，又舍不得给GitHub交保护费，那就只能自己搭建一台Git服务器作为私有仓库使用。
 

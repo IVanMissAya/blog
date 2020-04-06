@@ -1,12 +1,13 @@
 ---
 title: 搭建 Hexo 环境
 author: IVAn
-cover: https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/post_6.jpg
+cover: 'https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/post_6.jpg'
 tags:
   - Hexo
   - Window 10
 categories: 前端
 abbrlink: 9332da2a
+date: 2020-03-11 08:00:00
 ---
 Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。
 

@@ -6,6 +6,7 @@ tags:
   - Vue
 categories: Vue
 abbrlink: 6a1162a
+date: 2020-04-01 08:00:00
 ---
 Vue入门学习教程1-1
 # 安装Node.js

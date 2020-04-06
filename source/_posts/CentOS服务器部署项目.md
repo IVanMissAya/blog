@@ -1,11 +1,12 @@
 ---
 title: CentOS部署项目
 author: IVAn
-cover: https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/CentOS.jpg
+cover: 'https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/CentOS.jpg'
 tags:
   - CentOS
 categories: CentOS
 abbrlink: b02bb2ee
+date: 2020-03-14 08:00:00
 ---
 阿里云服务器部署web项目 CentOS7+JDK1.8+Tomcat8+MySQL5.7
 # 阿里云服务器部署web项目 CentOS7+JDK1.8+Tomcat8+MySQL5.7

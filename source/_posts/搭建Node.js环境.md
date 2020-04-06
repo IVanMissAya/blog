@@ -1,12 +1,13 @@
 ---
 title: 搭建 Node.js 环境
 author: IVAn
-cover: https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/post_5.jpg
+cover: 'https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/post_5.jpg'
 tags:
   - Node.js
   - Window 10
 categories: 前端
 abbrlink: 27ec92d2
+date: 2020-03-12 08:00:00
 ---
 
 Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行时。 

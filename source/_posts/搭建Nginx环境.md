@@ -1,12 +1,13 @@
 ---
 title: 搭建 Nginx 环境
 author: IVAn
-cover: https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/post_4.gif
+cover: 'https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/post_4.gif'
 tags:
   - Nginx
   - CentOS
 categories: 运维
 abbrlink: 441d0300
+date: 2020-03-12 08:00:00
 ---
 Nginx("engine x")是一款是由俄罗斯的程序设计师Igor Sysoev所开发高性能的 Web和 反向代理 服务器，也是一个 IMAP/POP3/SMTP 代理服务器。
 

@@ -1,11 +1,12 @@
 ---
 title: VSCode 插件推荐以及setting.json配置
 author: IVAn
-cover: https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/post_2.jpg
+cover: 'https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/post_2.jpg'
 tags:
   - VSCode
 categories: 软件工具
-abbrlink: 39375e4c
+abbrlink: 933a5b7e
+date: 2020-03-13 08:00:00
 ---
 
 ## VSCode
