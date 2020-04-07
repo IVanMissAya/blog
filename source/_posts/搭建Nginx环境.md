@@ -18,86 +18,86 @@ Nginx("engine x")是一款是由俄罗斯的程序设计师Igor Sysoev所开发�
   系统平台：CentOS release 7.6 (Final) 64位。
 
   一.安装编译工具及库文件
-  ``` bash
+``` 
   $ yum -y install make zlib zlib-devel gcc-c++ libtool  openssl openssl-devel
-  ```
+```
 
   二.首先要安装 PCRE
   1.PCRE 作用是让 Nginx 支持 Rewrite 功能。
   下载 PCRE 安装包，下载地址： http://downloads.sourceforge.net/project/pcre/pcre/8.35/pcre-8.35.tar.gz
-  ``` bash
+``` 
   $ cd /usr/local/src/
   $ wget http://downloads.sourceforge.net/project/pcre/pcre/8.35/pcre-8.35.tar.gz
-  ```
-  ![](http://blog.famuzhe.cn/yunwei/nginx/441d0300/nginx1.jpg)
+```
+  ![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/nginx1.jpg)
 
   2.解压安装包:
-  ``` bash
+``` 
   $ tar zxvf pcre-8.35.tar.gz
-  ```
+```
 
   3.进入安装包目录:
-  ``` bash
+``` 
   $ cd pcre-8.35
-  ```
+```
   4、编译安装 
-  ``` bash
+``` 
   $ ./configure
   $ make && make install 
-  ```
+```
   <font color=#c7254e>make</font>  命令出现：<font color=#c7254e>"make:*** No targets specified and no makefile found.Stop."</font>以下操作可以解决
 
- ![](http://blog.famuzhe.cn/yunwei/nginx/441d0300/nginx2.jpg)
+ ![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/nginx2.jpg)
 
-  ``` bash
+``` 
   $ yum update  //update最新版本系统软件
   $ yum install gcc build-essential //编译缺失关联软件
-  ```
+```
   编译执行完毕之后，我们在执行./configure && make这类的执行命令就可以解决问题。
 
   5、查看pcre版本
-  ``` bash
+``` 
   $ pcre-config --version
-  ```
-  ![](http://blog.famuzhe.cn/yunwei/nginx/441d0300/nginx3.jpg)
+```
+  ![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/nginx3.jpg)
 
 
 ### 安装 Nginx
 
 1.下载 Nginx，下载地址：http://nginx.org/download/nginx-1.6.2.tar.gz
-``` bash
+``` 
 $ cd /usr/local/src/
 $ wget http://nginx.org/download/nginx-1.6.2.tar.gz
 ```
 2.解压安装包
-``` bash
+``` 
 $ tar zxvf nginx-1.6.2.tar.gz
 ```
 3.进入安装包目录
-``` bash
+``` 
 $ cd nginx-1.6.2
 ```
 
 4.编译安装
-``` bash
+``` 
 $ ./configure --prefix=/usr/local/webserver/nginx --with-http_stub_status_module --with-http_ssl_module --with-pcre=/usr/local/src/pcre-8.35
 $ make && make install
 ```
 5.查看版本
-``` bash
+``` 
 $ /usr/local/webserver/nginx/sbin/nginx -v
 ```
-![](http://blog.famuzhe.cn/yunwei/nginx/441d0300/nginx4.jpg)
+![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/nginx4.jpg)
 
 ### Nginx 配置
 
 创建 Nginx 运行使用的用户 www：
-``` bash
+``` 
 $ /usr/sbin/groupadd www 
 $ /usr/sbin/useradd -g www www
 ```
 进入/usr/local/webserver/nginx/conf/nginx.conf替换配置内容
-``` bash
+``` 
 $ cat /usr/local/webserver/nginx/conf/nginx.conf
 ```
 配置nginx.conf
@@ -179,24 +179,24 @@ http
 ```
 
 检查配置文件nginx.conf的正确性命令：
-``` bash
+``` 
 $ /usr/local/webserver/nginx/sbin/nginx -t
 ```
-![](http://blog.famuzhe.cn/yunwei/nginx/441d0300/nginx5.jpg)
+![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/nginx5.jpg)
 
 ###启动 Nginx
 Nginx 启动命令如下：
-```bash
+```
 $ /usr/local/webserver/nginx/sbin/nginx
 ```
-![](http://blog.famuzhe.cn/yunwei/nginx/441d0300/nginx6.jpg)
+![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/nginx6.jpg)
 
 ### 访问站点
 从浏览器访问我们配置的站点ip：
-![](http://blog.famuzhe.cn/yunwei/nginx/441d0300/nginx7.png)
+![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/nginx7.jpg)
 
 ### 配置Nginx环境变量
-``` bash
+``` 
 $ vim /etc/profile
 
 //在末尾加上
@@ -206,14 +206,14 @@ export PATH=$PATH:$NGINX
 $ source /etc/profile //重新加载环境 
 ```
 验证一下是否成功
-``` bash
+``` 
 $ nginx -v
 ```
-![](http://blog.famuzhe.cn/yunwei/nginx/441d0300/nginx8.jpg)
+![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/nginx8.jpg)
 
 ### Nginx 其他命令
 以下包含了 Nginx 常用的几个命令
-``` bash
+``` 
 $ nginx -s reload            # 重新载入配置文件
 $ nginx -s reopen            # 重启 Nginx
 $ nginx -s stop              # 停止 Nginx

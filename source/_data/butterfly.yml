@@ -260,8 +260,8 @@ valine:
   enable: true # if you want use valine,please set this value is true
   appId: ANdwl13vK29C1EMBx69Anur7-gzGzoHsz # leancloud application app id
   appKey: 0HHLGaNKJl9XNqnuoVxdCWQH # leancloud application app key
-  notify: true # valine mail notify (true/false) https://github.com/xCss/Valine/wiki
-  verify: true # valine verify code (true/false)
+  notify: false # valine mail notify (true/false) https://github.com/xCss/Valine/wiki
+  verify: false # valine verify code (true/false)
   pageSize: 10 # comment list page size
   avatar: monsterid # gravatar style https://valine.js.org/#/avatar
   lang: zh-cn # i18n: zh-cn/en
