@@ -1,7 +1,7 @@
 ---
 title: 搭建 Node.js 环境
 author: IVAn
-cover: 'https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/post_5.jpg'
+cover: 'https://static.ivan.fun/blog/post_5.jpg'
 tags:
   - Node.js
   - Window 10
@@ -16,14 +16,14 @@ Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行时。
 
 ### 配置本地 node 环境
   1.<font color=#c7254e>node</font>[官网](https://nodejs.org/en/ "官网")下载。
- ![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/node.js1.jpg)
+ ![](https://static.ivan.fun/blog/node.js1.jpg)
 
   2.默认安装
 ``` 
   $ node -v
   $ npm -v
 ```
-  ![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/node.js2.jpg)
+  ![](https://static.ivan.fun/blog/node.js2.jpg)
 
 #### 修改
 ``` 
@@ -38,4 +38,4 @@ Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行时。
 ``` 
    $ npm config get registry    //查看下载源
 ```
- ![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/node.js3.jpg)
+ ![](https://static.ivan.fun/blog/node.js3.jpg)

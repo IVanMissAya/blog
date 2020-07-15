@@ -1,7 +1,7 @@
 ---
 title: 【微信小程序】引用echarts 在真机上预览图表模糊的解决办法
 author: IVAn
-cover: 'https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/timg.jpg'
+cover: 'https://static.ivan.fun/blog/timg.jpg'
 tags:
   - 小程序
 categories: '-小程序 -Echarts'

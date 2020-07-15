@@ -1,7 +1,7 @@
 ---
 title: Java处理emoji的方式
 author: IVAn
-cover: 'https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/java_logo.jpg'
+cover: 'https://static.ivan.fun/blog/java_logo.jpg'
 tags:
   - Java
 categories: Java

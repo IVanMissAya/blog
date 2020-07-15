@@ -1,7 +1,7 @@
 ---
 title: 基于Java的TCP Socket通信详解
 author: IVAn
-cover: 'https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/tcp_index.jpg'
+cover: 'https://static.ivan.fun/blog/tcp_index.jpg'
 tags:
   - Java
 categories: Java

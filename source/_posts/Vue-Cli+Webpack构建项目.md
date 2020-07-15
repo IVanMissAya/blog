@@ -1,7 +1,7 @@
 ---
 title: Vue入门学习教程2-1
 author: IVAn
-cover: 'https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/vue.jpg'
+cover: 'https://static.ivan.fun/blog/vue.jpg'
 tags:
   - Vue
 categories: Vue
@@ -12,7 +12,7 @@ date: 2020-04-03 08:00:00
 # **Vue-Cli + Webpack 构建项目** #
 
 ## 1、检查是否安装了node，node -v
-![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/nodeV.jpg)
+![](https://static.ivan.fun/blog/nodeV.jpg)
 
 ## 2、npm镜像替换成国内淘宝cnpm镜像
 	
@@ -35,17 +35,17 @@ date: 2020-04-03 08:00:00
 	- vue init webpack vuedemo
 
 ## 6、补充一些项目的基本信息
-![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/vueinit.jpg)
+![](https://static.ivan.fun/blog/vueinit.jpg)
 
 ## 7、进入项目文件夹 查看package.json
-![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/1585723639(1).jpg)
+![](https://static.ivan.fun/blog/1585723639(1).jpg)
 	
 	-npm run dev || npm run start 启动项目
 
-![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/rundev.jpg)
+![](https://static.ivan.fun/blog/rundev.jpg)
 
 ## 8、访问启动地址
 	
 	-http://localhost:8081/#/
 
-![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/vuedemo.jpg)
+![](https://static.ivan.fun/blog/vuedemo.jpg)

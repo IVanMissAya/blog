@@ -1,7 +1,7 @@
 ---
 title: 搭建 Hexo 环境
 author: IVAn
-cover: 'https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/post_6.jpg'
+cover: 'https://static.ivan.fun/blog/post_6.jpg'
 tags:
   - Hexo
   - Window 10
@@ -12,10 +12,10 @@ date: 2020-03-11 08:00:00
 Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。
 
 ## Node.js
-  安装[Node.js环境安装](https://www.ivan.fun/2019/12/04/%E6%90%AD%E5%BB%BANode.js%E7%8E%AF%E5%A2%83/ "Node.js环境安装")
+  安装[Node.js环境安装](https://www.ivan.fun/posts/27ec92d2/ "Node.js环境安装")
 
 ## Git
-  安装[Git环境安装](https://www.ivan.fun/2019/12/04/%E6%90%AD%E5%BB%BAGit%E7%8E%AF%E5%A2%83/ "Git环境安装")
+  安装[Git环境安装](https://www.ivan.fun/posts/c8814d8f/ "Git环境安装")
 ## Hexo
 
 ### 安装Hexo环境
@@ -24,12 +24,12 @@ Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（�
   $ hexo
 ```
   1.如果显示下面情况，恭喜你成功全局模块调用
-  ![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/hexo1.jpg)
+  ![](https://static.ivan.fun/blog/hexo1.jpg)
 
 ``` 
   $ hexo -v //查看版本
 ```
- ![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/hexo2.jpg)
+ ![](https://static.ivan.fun/blog/hexo2.jpg)
 
   2.随便找个地方初始化文件，执行如下命令：
 ``` 
@@ -48,7 +48,7 @@ Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（�
   $ git clone https://github.com/iissnan/hexo-theme-next themes/next
 ```
   在本地配置文件中设置theme属性
-![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/hexo3.jpg)
+![](https://static.ivan.fun/blog/hexo3.jpg)
 
   3.hexo和GitHub关联起来，修改配置文件_config.yml(github中要新建一个仓库用户名+github.io或者搭建[私人Git服务器](http://www.famuzhe.cn/p/c8814d8f/ "私人Git服务器"))
 ``` 

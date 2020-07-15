@@ -1,7 +1,7 @@
 ---
 title: 搭建 Nginx 环境
 author: IVAn
-cover: 'https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/post_4.gif'
+cover: 'https://static.ivan.fun/blog/post_4.gif'
 tags:
   - Nginx
   - CentOS
@@ -29,7 +29,7 @@ Nginx("engine x")是一款是由俄罗斯的程序设计师Igor Sysoev所开发�
   $ cd /usr/local/src/
   $ wget http://downloads.sourceforge.net/project/pcre/pcre/8.35/pcre-8.35.tar.gz
 ```
-  ![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/nginx1.jpg)
+  ![](https://static.ivan.fun/blog/nginx1.jpg)
 
   2.解压安装包:
 ``` 
@@ -47,7 +47,7 @@ Nginx("engine x")是一款是由俄罗斯的程序设计师Igor Sysoev所开发�
 ```
   <font color=#c7254e>make</font>  命令出现：<font color=#c7254e>"make:*** No targets specified and no makefile found.Stop."</font>以下操作可以解决
 
- ![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/nginx2.jpg)
+ ![](https://static.ivan.fun/blog/nginx2.jpg)
 
 ``` 
   $ yum update  //update最新版本系统软件
@@ -59,7 +59,7 @@ Nginx("engine x")是一款是由俄罗斯的程序设计师Igor Sysoev所开发�
 ``` 
   $ pcre-config --version
 ```
-  ![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/nginx3.jpg)
+  ![](https://static.ivan.fun/blog/nginx3.jpg)
 
 
 ### 安装 Nginx
@@ -87,7 +87,7 @@ $ make && make install
 ``` 
 $ /usr/local/webserver/nginx/sbin/nginx -v
 ```
-![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/nginx4.jpg)
+![](https://static.ivan.fun/blog/nginx4.jpg)
 
 ### Nginx 配置
 
@@ -182,18 +182,18 @@ http
 ``` 
 $ /usr/local/webserver/nginx/sbin/nginx -t
 ```
-![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/nginx5.jpg)
+![](https://static.ivan.fun/blog/nginx5.jpg)
 
 ###启动 Nginx
 Nginx 启动命令如下：
 ```
 $ /usr/local/webserver/nginx/sbin/nginx
 ```
-![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/nginx6.jpg)
+![](https://static.ivan.fun/blog/nginx6.jpg)
 
 ### 访问站点
 从浏览器访问我们配置的站点ip：
-![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/nginx7.jpg)
+![](https://static.ivan.fun/blog/nginx7.jpg)
 
 ### 配置Nginx环境变量
 ``` 
@@ -209,7 +209,7 @@ $ source /etc/profile //重新加载环境
 ``` 
 $ nginx -v
 ```
-![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/nginx8.jpg)
+![](https://static.ivan.fun/blog/nginx8.jpg)
 
 ### Nginx 其他命令
 以下包含了 Nginx 常用的几个命令

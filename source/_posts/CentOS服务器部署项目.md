@@ -1,14 +1,14 @@
 ---
 title: CentOS部署项目
 author: IVAn
-cover: 'https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/CentOS.jpg'
+cover: 'https://static.ivan.fun/blog/CentOS.jpg'
 tags:
   - CentOS
 categories: CentOS
-abbrlink: b02bb2ee
+abbrlink: 11396c1e
 date: 2020-03-14 08:00:00
 ---
-阿里云服务器部署web项目 CentOS7+JDK1.8+Tomcat8+MySQL5.7
+
 # 阿里云服务器部署web项目 CentOS7+JDK1.8+Tomcat8+MySQL5.7
 ## 1 准备工作
 ### 1.1 查看Linux服务器版本
@@ -25,7 +25,7 @@ Codename:	Core
 yum install -y redhat-lsb
 ```
 Linux系统分为CentOS、Ubuntu、Debian，此处为64位CentOS7。
-### 1.2 Linux系统介绍
+### 1.2 Linux系统介绍 
 #### 1.2.1 CentOS系统
 非常多的商业公司部署在生产环境上的服务器都是使用CentOS系统，CentOS是从Redhat源代码编译重新发布版，CentOS去除很多与服务器功能无关的应用，系统简单但非常稳定，命令行操作可以方便管理系统和应用，并且有帮助文档和社区的支持。
 #### 1.2.2 Ubuntu系统
@@ -80,7 +80,7 @@ java-1.8.0-openjdk-accessibility.i686
 
 ### 3.1 下载Tomcat
 打开Tomcat官网`http://tomcat.apache.org`，在左侧栏的Download里选择版本，我选择的是Tomcat 8；之后选择最新版本8.5.33，选择下载tar.gz包。
-![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/Tomcat8.5.33.png)
+![](https://static.ivan.fun/blog/Tomcat8.5.33.png)
 也可以通过链接`http://ftp.tsukuba.wide.ad.jp/software/apache/tomcat/tomcat-8/v8.5.33/bin/apache-tomcat-8.5.33.tar.gz`直接下载该版本的Tomcat。
 ### 3.2 安装Tomcat
 将压缩包上传到Linux服务器，可使用`rz`命令上传
@@ -139,9 +139,9 @@ tcp        0      0 172.31.13.141:36474     172.31.13.141:8548      TIME_WAIT
 ### 4.1 选择MySQL版本
 #### 4.1.1 直接下载MySQL
 登录MySQL官网`https://www.mysql.com/`，如下图所示，选择MySQL版本，下载与Linux系统相对应的MySQL。此例选择的是MySQL5.7，Linux是64位CentOS 7，而CentOS是从Redhat源代码编译重新发布的。
-![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/MySQL-1.png)
-![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/MySQL-2.png)
-![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/MySQL-3.png)
+![](https://static.ivan.fun/blog/MySQL-1.png)
+![](https://static.ivan.fun/blog/MySQL-2.png)
+![](https://static.ivan.fun/blog/MySQL-3.png)
 或者直接打开链接`https://dev.mysql.com/get/Downloads/MySQL-5.7/mysql-community-server-5.7.23-1.el7.x86_64.rpm`进行下载
 
 或者在Linux服务器使用命令下载MySQL
@@ -150,8 +150,8 @@ wget https://dev.mysql.com/get/Downloads/MySQL-5.7/mysql-community-server-5.7.23
 ```
 #### 4.1.2 通过MySQL源安装
 如下图所示，在MySQL官网选择相应的MySQL源进行下载。（在官网找了半天也只能找到MySQL最新版本8.0的源，故截图中的为8.0版本，演示用的是5.7）
-![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/MySQL2-1.png)
-![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/MySQL2-2.png)
+![](https://static.ivan.fun/blog/MySQL2-1.png)
+![](https://static.ivan.fun/blog/MySQL2-2.png)
 或者直接打开链接`https://dev.mysql.com/get/mysql80-community-release-el7-1.noarch.rpm`进行下载
 
 或者在Linux服务器使用命令下载MySQL源
@@ -243,7 +243,7 @@ mysql> source db.sql;
 我使用的是Intellij IDEA，对maven项目进行打包
 
 选择Maven Projects，选择相应的project，然后选择Lifecycle -> package，即可生成war包。
-![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/Maven-1.png)
+![](https://static.ivan.fun/blog/Maven-1.png)
 
 ### 5.2 发布war包
 

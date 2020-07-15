@@ -1,7 +1,7 @@
 ---
 title: JS请求节流
 author: IVAn
-cover: 'https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/js_index.jpg'
+cover: 'https://static.ivan.fun/blog/js_index.jpg'
 tags:
   - JavaScript
 categories: JavaScript

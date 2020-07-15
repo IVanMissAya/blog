@@ -1,7 +1,7 @@
 ---
 title: 【微信小程序】上传文件到阿里云OSS
 author: IVAn
-cover: 'https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/oss_index.jpg'
+cover: 'https://static.ivan.fun/blog/oss_index.jpg'
 tags:
   - 小程序
 categories: '-小程序'
@@ -147,7 +147,7 @@ const getSignature = function (policyBase64) {
 module.exports = uploadFile;
 ```
 
-### 代码使用
+### 代码使用   
 
 ```
 const uploadImage = require('../../utils/uploadAliyun.js');

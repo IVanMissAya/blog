@@ -1,7 +1,7 @@
 ---
 title: 【微信小程序】使用ECharts绘制水波图
 author: IVAn
-cover: 'https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/water-cover.jpg'
+cover: 'https://static.ivan.fun/blog/water-cover.jpg'
 tags:
   - 小程序
 categories: '-小程序 -Echarts'
@@ -11,7 +11,7 @@ date: 2020-06-06 17:30:00
 # 微信小程序使用ECharts绘制水波图
 
 ## 效果图
-![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/liqud-water.jpg)
+![](https://static.ivan.fun/blog/liqud-water.jpg)
 
 ### 需要用到的插件 ECharts 的微信小程序版本 GitHub地址: https://github.com/ecomfe/echarts-for-weixin 
 ### 话不多说 上代码

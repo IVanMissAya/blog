@@ -1,7 +1,7 @@
 ---
 title: 搭建 Git 环境
 author: IVAn
-cover: 'https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/post_7.jpg'
+cover: 'https://static.ivan.fun/blog/post_7.jpg'
 tags:
   - Git
   - CentOS
@@ -54,7 +54,7 @@ GitHub就是一个免费托管开源代码的远程仓库。但是对于某些�
   $ git clone git@server_ip:/git/repos/blog.git
 ```
   如果能把空仓库拉下来，就说明 git 仓库搭建成功了
-  ![](https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/git1.jpg)
+  ![](https://static.ivan.fun/blog/git1.jpg)
  
   5.建立ssh信任关系，在本地电脑打开 <font color=#c7254e>Git Bash Here</font> 运行
 ``` 
