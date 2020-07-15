@@ -4,6 +4,7 @@ author: IVAn
 cover: 'https://static.ivan.fun/blog/oss_index.jpg'
 tags:
   - 小程序
+  - OSS
 categories: '-小程序'
 abbrlink: cf1bf869
 date: 2020-07-02 17:30:00
