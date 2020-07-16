@@ -4,7 +4,7 @@ author: IVAn
 cover: 'https://static.ivan.fun/blog/httpstomcat.jpg'
 tags:
   - Tomcat
-categories: Tomcat
+categories: -Tomcat
 abbrlink: eb59cee9
 date: 2020-04-05 08:00:00
 ---

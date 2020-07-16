@@ -5,7 +5,7 @@ cover: 'https://static.ivan.fun/blog/post_4.gif'
 tags:
   - Nginx
   - CentOS
-categories: 运维
+categories: -运维
 abbrlink: 441d0300
 date: 2020-03-12 08:00:00
 ---

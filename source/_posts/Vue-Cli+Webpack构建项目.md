@@ -4,7 +4,7 @@ author: IVAn
 cover: 'https://static.ivan.fun/blog/vue.jpg'
 tags:
   - Vue
-categories: Vue
+categories: -Vue.js
 abbrlink: 4e7a873
 date: 2020-04-03 08:00:00
 ---

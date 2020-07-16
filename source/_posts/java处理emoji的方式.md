@@ -4,7 +4,7 @@ author: IVAn
 cover: 'https://static.ivan.fun/blog/java_logo.jpg'
 tags:
   - Java
-categories: Java
+categories: -Java
 abbrlink: ab91153b
 date: 2020-04-14 10:00:00
 ---

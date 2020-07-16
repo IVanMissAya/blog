@@ -5,7 +5,7 @@ cover: 'https://static.ivan.fun/blog/post_6.jpg'
 tags:
   - Hexo
   - Window 10
-categories: 前端
+categories: -前端
 abbrlink: 9332da2a
 date: 2020-03-11 08:00:00
 ---

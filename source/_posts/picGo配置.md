@@ -4,7 +4,7 @@ author: IVAn
 cover: 'https://static.ivan.fun/blog/picgo2-1024x576.png'
 tags:
   - 图床
-categories: 软件工具
+categories: -软件工具
 abbrlink: 9afd02e1
 date: 2020-04-14 10:20:00
 ---

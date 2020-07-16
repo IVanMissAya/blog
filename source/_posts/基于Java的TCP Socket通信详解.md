@@ -4,7 +4,7 @@ author: IVAn
 cover: 'https://static.ivan.fun/blog/tcp_index.jpg'
 tags:
   - Java
-categories: Java
+categories: -Java
 abbrlink: 59c157cb
 date: 2020-05-15 15:30:00
 ---

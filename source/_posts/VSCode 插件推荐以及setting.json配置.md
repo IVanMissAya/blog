@@ -4,7 +4,7 @@ author: IVAn
 cover: 'https://static.ivan.fun/blog/post_2.jpg'
 tags:
   - VSCode
-categories: 软件工具
+categories: -软件工具
 abbrlink: 933a5b7e
 date: 2020-03-13 08:00:00
 ---

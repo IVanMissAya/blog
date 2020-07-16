@@ -4,7 +4,7 @@ author: IVAn
 cover: 'https://static.ivan.fun/blog/js_index.jpg'
 tags:
   - JavaScript
-categories: JavaScript
+categories: -JavaScript
 abbrlink: 12c97b7c
 date: 2020-04-26 09:00:00
 ---

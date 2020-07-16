@@ -5,7 +5,7 @@ cover: 'https://static.ivan.fun/blog/post_7.jpg'
 tags:
   - Git
   - CentOS
-categories: 运维
+categories: -运维
 abbrlink: c8814d8f
 date: 2020-03-10 08:00:00
 ---

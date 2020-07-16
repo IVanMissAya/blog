@@ -5,7 +5,7 @@ cover: 'https://static.ivan.fun/blog/cdn_timg.jpg'
 tags:
   - CDN
   - OSS
-categories: 'OSS,CDN'
+categories: '-OSS,CDN'
 abbrlink: 7d87ea3f
 date: 2020-07-15 17:30:00
 ---

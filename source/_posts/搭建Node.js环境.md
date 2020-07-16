@@ -5,7 +5,7 @@ cover: 'https://static.ivan.fun/blog/post_5.jpg'
 tags:
   - Node.js
   - Window 10
-categories: 前端
+categories: -前端
 abbrlink: 27ec92d2
 date: 2020-03-12 08:00:00
 ---
