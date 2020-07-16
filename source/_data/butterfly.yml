@@ -108,30 +108,30 @@ mermaid:
 # Post info settings
 # ---------------
 avatar:
-  img: /img/avatar.png
+  img: https://static.ivan.fun/blog/avatar.png 
   effect: true # 頭像會一直轉圈
 
 # the banner image of index
-index_img: /img/index.jpg
+index_img: https://static.ivan.fun/blog/blog_index.jpg
 
 # if the banner of page not setting,it will show the top_img
-default_top_img: /img/index.jpg
+default_top_img: https://static.ivan.fun/blog/blog_index.jpg
 
 # the banner image of archive page
-archive_img: https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/archive.jpg
+archive_img: https://static.ivan.fun/blog/archive.jpg
 
 # the banner image of tag page
 # tag page, look like https://xxxxxxxxx.com/tags/butterfly
-tag_img: https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/tags.jpg
+tag_img: https://static.ivan.fun/blog/tags.jpg
 
 # the banner image of category page
 # category page, look like https://xxxxxxxxx.com/categories/butterfly
-category_img: https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/photo.jpg
+category_img: https://static.ivan.fun/blog/photo.jpg
 
 # 如果你有使用hexo-douban，可配置這個
 douban:
   meta: true
-  movies_img: https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/movie.jpg
+  movies_img: https://static.ivan.fun/blog/movie.jpg
 #   books_img:
 #   games_img:
 
