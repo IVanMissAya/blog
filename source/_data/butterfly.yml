@@ -294,7 +294,7 @@ footer_copyright:
 
 ICP:
   enable: true
-  url: http://gd.beian.miit.gov.cn/state/outPortal/loginPortal.action
+  url: https://beian.miit.gov.cn/
   text: 粤ICP备19001635号
   icon: /img/icp.png
 
