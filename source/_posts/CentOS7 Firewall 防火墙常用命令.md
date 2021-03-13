@@ -4,7 +4,7 @@ author: IVAn
 cover: 'https://static.ivan.fun/blog/firewall.jpg'
 tags:
   - CentOS
-categories: -CentOS
+categories: '-CentOS'
 abbrlink: 11396c1e
 date: 2020-06-10 16:30:00
 ---

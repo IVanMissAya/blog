@@ -4,8 +4,8 @@ author: IVAn
 cover: 'https://static.ivan.fun/blog/CentOS.jpg'
 tags:
   - CentOS
-categories: -CentOS
-abbrlink: 11396c1e
+categories: '-CentOS'
+abbrlink: b02bb2ee
 date: 2020-03-14 08:00:00
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Vue入门学习教程2-1
+title: Vue-Cli + Webpack 构建项目
 author: IVAn
 cover: 'https://static.ivan.fun/blog/vue.jpg'
 tags:
