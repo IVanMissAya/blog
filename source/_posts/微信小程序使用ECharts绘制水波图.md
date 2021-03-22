@@ -2,6 +2,7 @@
 title: 【微信小程序】使用ECharts绘制水波图
 author: IVAn
 cover: 'https://static.ivan.fun/blog/water-cover.jpg'
+index_img: 'https://static.ivan.fun/blog/water-cover.jpg'
 tags:
   - 小程序
 categories: '-小程序 -Echarts'

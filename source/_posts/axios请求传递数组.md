@@ -2,6 +2,7 @@
 title: Axios请求传递数组的问题
 author: IVAn
 cover: 'https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/blog/axios.jpg'
+index_img: 'https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/blog/axios.jpg'
 tags:
   - JavaScript
 categories: '-JavaScript'

@@ -2,6 +2,7 @@
 title: SPA（单页面应用）和MPA（多页面应用）
 author: IVAn
 cover: 'https://static.ivan.fun/blog/codetree.jpg'
+index_img: 'https://static.ivan.fun/blog/codetree.jpg'
 tags:
   - 前端
 categories: '-前端'

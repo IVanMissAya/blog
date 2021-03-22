@@ -2,6 +2,7 @@
 title: 【微信小程序】wx.chooseImage方法Bug
 author: IVAn
 cover: 'https://static.ivan.fun/blog/choImage.jpg'
+index_img: 'https://static.ivan.fun/blog/choImage.jpg'
 tags:
   - 小程序
 categories: '-小程序'

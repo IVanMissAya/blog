@@ -2,6 +2,7 @@
 title: img 对象，file 对象，base64，canvas 对象相互转换以及图片压缩
 author: IVAn
 cover: 'https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/blog/markus-spiske-xekxE_VR0Ec-unsplash.jpg'
+index_img: 'https://ivan-picgo.oss-cn-shenzhen.aliyuncs.com/blog/markus-spiske-xekxE_VR0Ec-unsplash.jpg'
 tags:
   - JavaScript
 categories: '-JavaScript'

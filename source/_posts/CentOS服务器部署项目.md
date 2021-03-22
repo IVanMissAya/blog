@@ -2,6 +2,7 @@
 title: CentOS部署项目
 author: IVAn
 cover: 'https://static.ivan.fun/blog/CentOS.jpg'
+index_img: 'https://static.ivan.fun/blog/CentOS.jpg'
 tags:
   - CentOS
 categories: '-CentOS'

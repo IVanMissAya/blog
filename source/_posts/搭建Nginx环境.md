@@ -2,6 +2,7 @@
 title: 搭建 Nginx 环境
 author: IVAn
 cover: 'https://static.ivan.fun/blog/post_4.gif'
+index_img: 'https://static.ivan.fun/blog/post_4.gif'
 tags:
   - Nginx
   - CentOS

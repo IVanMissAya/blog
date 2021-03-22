@@ -2,6 +2,7 @@
 title: 阿里云 CDN + OSS 解决方案
 author: IVAn
 cover: 'https://static.ivan.fun/blog/cdn_timg.jpg'
+index_img: 'https://static.ivan.fun/blog/cdn_timg.jpg'
 tags:
   - CDN
   - OSS

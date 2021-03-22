@@ -2,6 +2,7 @@
 title: Java使用poi-tl操作word文档
 author: IVAn
 cover: 'https://static.ivan.fun/blog/javapoi.jpg'
+index_img: 'https://static.ivan.fun/blog/javapoi.jpg'
 tags:
   - Java
 categories: '-Java'

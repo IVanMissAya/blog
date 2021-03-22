@@ -2,6 +2,7 @@
 title: 天的气 -APP
 author: IVAn
 cover: 'https://static.ivan.fun/blog/appIndex.png'
+index_img: 'https://static.ivan.fun/blog/appIndex.png'
 tags:
   - APP
 categories: '-uniapp'

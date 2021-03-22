@@ -2,6 +2,7 @@
 title: CentOS7 防火墙Firewall常用命令
 author: IVAn
 cover: 'https://static.ivan.fun/blog/firewall.jpg'
+index_img: 'https://static.ivan.fun/blog/firewall.jpg'
 tags:
   - CentOS
 categories: '-CentOS'

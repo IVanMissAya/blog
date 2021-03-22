@@ -2,6 +2,7 @@
 title: 单个Tomcat配置多个域并配置多个证书
 author: IVAn
 cover: 'https://static.ivan.fun/blog/httpstomcat.jpg'
+index_img: 'https://static.ivan.fun/blog/httpstomcat.jpg'
 tags:
   - Tomcat
 categories: -Tomcat

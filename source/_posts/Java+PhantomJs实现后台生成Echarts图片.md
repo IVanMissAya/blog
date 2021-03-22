@@ -2,6 +2,7 @@
 title: Java+PhantomJs实现后台生成Echarts图片
 author: IVAn
 cover: 'https://static.ivan.fun/blog/phantomJs.jpg'
+index_img: 'https://static.ivan.fun/blog/phantomJs.jpg'
 tags:
   - Java
 categories: '-Java'

@@ -2,6 +2,7 @@
 title: JavaScript 使用JSZip保存文件压缩包并下载
 author: IVAn
 cover: 'https://static.ivan.fun/blog/jszip.jpg'
+index_img: 'https://static.ivan.fun/blog/jszip.jpg'
 tags:
   - JavaScript
 categories: '-JavaScript'

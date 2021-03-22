@@ -2,6 +2,7 @@
 title: 图床工具的使用 - PicGo
 author: IVAn
 cover: 'https://static.ivan.fun/blog/picgo2-1024x576.png'
+index_img: 'https://static.ivan.fun/blog/picgo2-1024x576.png'
 tags:
   - 图床
 categories: -软件工具

@@ -2,6 +2,7 @@
 title: 【微信小程序】上传文件到阿里云OSS
 author: IVAn
 cover: 'https://static.ivan.fun/blog/oss_index.jpg'
+index_img: 'https://static.ivan.fun/blog/oss_index.jpg'
 tags:
   - 小程序
   - OSS

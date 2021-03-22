@@ -2,6 +2,7 @@
 title: Vue-Cli + Webpack 构建项目
 author: IVAn
 cover: 'https://static.ivan.fun/blog/vue.jpg'
+index_img: 'https://static.ivan.fun/blog/vue.jpg'
 tags:
   - Vue
 categories: -Vue.js

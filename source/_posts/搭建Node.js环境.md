@@ -2,6 +2,7 @@
 title: 搭建 Node.js 环境
 author: IVAn
 cover: 'https://static.ivan.fun/blog/post_5.jpg'
+index_img: 'https://static.ivan.fun/blog/post_5.jpg'
 tags:
   - Node.js
   - Window 10
