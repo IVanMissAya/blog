@@ -694,8 +694,8 @@ gitalk:
 # Based on LeanCloud
 # See: https://valine.js.org/configuration.html
 valine:
-  appid: ANdwl13vK29C1EMBx69Anur7
-  appkey: 0HHLGaNKJl9XNqnuoVxdCWQH
+  appid: ihpDRfnFEDbXmY4WKxuX4Bsl-MdYXbMMI
+  appkey: 3wr5l8go2NRwOGVAdRIbqX1U
   placeholder: 说点什么
   path: window.location.pathname
   avatar: retro
@@ -882,7 +882,7 @@ links:
       title: "小宾",
       intro: "要想成功，就要以恒心为良友，以经验为参谋，以谨慎为兄弟，以希望为哨兵",
       link: "http://www.famuzhe.cn/",
-      avatar: "http://www.famuzhe.cn/medias/avatar.jpg"
+      avatar: "https://www.famuzhe.cn/medias/avatar.jpg"
     }
     - {
       title: "Aifonso",
