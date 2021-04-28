@@ -101,7 +101,7 @@ theme: fluid
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git #用户名
-  repo: git@47.106.187.171:/git/repos/blog.git #git仓库地址
+  repo: git@47.98.131.22:/git/repos/blog.git #git仓库地址
   branch: master #分支
 
 #豆瓣
