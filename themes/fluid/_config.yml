@@ -882,13 +882,13 @@ links:
       title: "小宾",
       intro: "要想成功，就要以恒心为良友，以经验为参谋，以谨慎为兄弟，以希望为哨兵",
       link: "http://www.famuzhe.cn/",
-      avatar: "https://www.famuzhe.cn/medias/avatar.jpg"
+      avatar: "https://www.famuzhe.cn/img/avatar.png"
     }
     - {
       title: "Aifonso",
       intro: "If you wish to succeed, you should use persistence as your good friend, experience as your reference, prudence as your brother and hope as your sentry.",
       link: "https://www.aifonso.top/",
-      avatar: "https://www.aifonso.top/medias/avatar.jpg"
+      avatar: "https://oss.aifonso.top/avatar.jpg"
     }
 
   # 当成员头像加载失败时，替换为指定图片
